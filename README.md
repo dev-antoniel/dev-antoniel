@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @antoniel-dev
 - 👀 I’m interested in web programming
 - 🌱 I’m currently learning html, css and javascript
-- 💞️ I'm looking to collaborate on website and website development
+- 💞️ I'm looking to collaborate on and website development
 - 📫 How to reach me email: antonielbezerrasilva10@gmai.com
                              : Phone: 5599984182844
 
