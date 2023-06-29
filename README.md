@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @antoniel-dev
+- 👋 Hi, I’m @dev-antoniel
 - 👀 I’m interested in web programming
 - 🌱 I’m currently learning html, css and javascript
 - 💞️ I'm looking to collaborate on and website development
