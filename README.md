@@ -30,4 +30,6 @@
     <img align="center" alt="Brave" src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" />
     <img align="center" alt="Google" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
     <img align="center" alt="Google" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" />
-</div>
+</div><br/>
+
+## Apaixonado por tecnologia, cursando Ciência da Computação no momento e aprofundando meus conhecimentos em desenvolvimento de sites e apps. 
