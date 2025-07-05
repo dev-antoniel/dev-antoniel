@@ -59,7 +59,7 @@
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40" width="40" alt="Excel"/>
   <img src="https://img.icons8.com/color/48/microsoft-word-2019--v1.png" height="40" width="40" alt="Word"/>
   <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019--v1.png" height="40" width="40" alt="PowerPoint"/>
-  <img src="https://upload.wikimedia.org/presskit/Notion/icon-white.png" height="40" width="40" alt="Notion"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" width="40" alt="Notion"/>
   <img src="https://img.icons8.com/color/48/arduino.png" height="40" width="40" alt="Arduino"/>
 </div>
 
@@ -71,7 +71,6 @@ Sou apaixonado por tecnologia e estou em constante evolução! Atualmente:
 
 - 🎓 Cursando **Ciência da Computação**
 - 💻 Focado em **Desenvolvimento Web Full Stack** (Front-end & Back-end)
-- 📊 Tenho experiência com **Python para Análise de Dados**
 - 🧠 Trabalho com **projetos pessoais**, **colaborativos** e soluções práticas
 - 💼 Buscando oportunidades para crescer na área de **tecnologia**
 
