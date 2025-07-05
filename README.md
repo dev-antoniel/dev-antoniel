@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Antoniel! 👋🏻</h1>
-<h3 align="center">Estudante de Ciência da Computação | Foco em Desenvolvimento Web, Análise de Dados e Back-end</h3>
+<h3 align="center">Estudante de Ciência da Computação | Foco em Desenvolvimento Web, Back-end e Análise de Dados </h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/antoniel-bezerra-ti/" target="_blank">
