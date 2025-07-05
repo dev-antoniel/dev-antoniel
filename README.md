@@ -59,7 +59,7 @@
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40" width="40"/>
   <img src="https://img.icons8.com/color/48/microsoft-word-2019--v1.png" height="40" width="40"/>
   <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019--v1.png" height="40" width="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/notion.png" height="40" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" height="40" width="40" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(200%) contrast(100%);" />
   <img src="https://img.icons8.com/color/48/arduino.png" height="40" width="40"/>
 </div>
 
