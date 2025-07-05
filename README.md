@@ -43,7 +43,6 @@
 
 Sou estudante de **Ciência da Computação**, apaixonado por tecnologia e desenvolvimento. Tenho experiência prática com:
 
-- **Análise de Dados com Python**
 - **Desenvolvimento de Sites e Aplicações Web**
 - **Manipulação e Visualização de Dados com Excel**
 - **Ambientes de Programação Java com IntelliJ e Eclipse**
