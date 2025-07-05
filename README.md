@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Antoniel! 👋🏻</h1>
-<h3 align="center">Estudante de Ciência da Computação | Foco em Desenvolvimento Web, Back-end e Análise de Dados </h3>
+<h3 align="center">Estudante de Ciência da Computação | Foco em Desenvolvimento Web front-end e Back-end </h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/antoniel-bezerra-ti/" target="_blank">
@@ -70,7 +70,7 @@
 Sou apaixonado por tecnologia e estou em constante evolução! Atualmente:
 
 - 🎓 Cursando **Ciência da Computação**
-- 📊 Focado em **Análise de Dados**, **Desenvolvimento Web** e **Aplicações Java**
+- 📊 Focado em **Desenvolvimento Web** e **Aplicações Java**
 - 🧠 Familiarizado com ambientes Linux e Windows
 - 🤝 Sempre pronto para aprender e contribuir com soluções reais
 
