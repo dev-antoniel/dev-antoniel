@@ -2,7 +2,7 @@
 <h3 align="center">Graduando em Ciência da Computação | Desenvolvimento Web Full Stack (Front-end & Back-end)</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/antoniel-bezerra-ti/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/dev-antoniel" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/antoniel_silva12t/" target="_blank" rel="noopener noreferrer">
